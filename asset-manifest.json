@@ -1,24 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.a7aeb035.css",
-    "main.js": "/static/js/main.f150fad8.js",
+    "main.js": "/static/js/main.e56332fc.js",
     "static/media/pic.png": "/static/media/pic.784a7b27f869a8b159b8.png",
     "static/media/timer.jpg": "/static/media/timer.b7c253ec7497d66ea576.jpg",
     "static/media/gameoflife.jpg": "/static/media/gameoflife.394531e763c91faf38cb.jpg",
     "static/media/greenhouse.jpg": "/static/media/greenhouse.1436c1cbdde4043ed64c.jpg",
+    "static/media/handpaint.jpg": "/static/media/handpaint.4f9bb4f994cee841c0f6.jpg",
     "static/media/wifiswitch.jpg": "/static/media/wifiswitch.8a218259312d39d46d63.jpg",
     "static/media/atresaba.jpg": "/static/media/atresaba.b150bda5996d0a7ce736.jpg",
-    "static/media/handpaint.jpg": "/static/media/handpaint.9f504791ec674a023059.jpg",
+    "static/media/ketab.jpg": "/static/media/ketab.c556b835fefb4182abca.jpg",
     "static/media/manshoor.jpg": "/static/media/manshoor.ea104a450facd004c5bd.jpg",
     "static/media/yektik.jpg": "/static/media/yektik.d83ca3f111415d44d345.jpg",
     "static/media/bg.svg": "/static/media/bg.9010aa583715a9d432709fb78e2fd671.svg",
-    "static/media/shape.svg": "/static/media/shape.0070af6978a826ec0efcf9d7c15619b9.svg",
     "index.html": "/index.html",
+    "static/media/shape.svg": "/static/media/shape.0070af6978a826ec0efcf9d7c15619b9.svg",
     "main.a7aeb035.css.map": "/static/css/main.a7aeb035.css.map",
-    "main.f150fad8.js.map": "/static/js/main.f150fad8.js.map"
+    "main.e56332fc.js.map": "/static/js/main.e56332fc.js.map"
   },
   "entrypoints": [
     "static/css/main.a7aeb035.css",
-    "static/js/main.f150fad8.js"
+    "static/js/main.e56332fc.js"
   ]
 }
